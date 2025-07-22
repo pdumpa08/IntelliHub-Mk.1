@@ -12,8 +12,8 @@ Today, I researched and found the idea and basic design idea for my project. In 
 
 I then moved on to creating the schematic. After finding the necessary parts, the wiring was pretty simple, using the principles the jam taught (grounding, ideal power combinations, etc.). Once I had completed the schematic, I moved on to making my PCB design. This process was singificantly harder in that I had never before connected more traces than I had to today. But eventually, with a lot of new techniques found, I completed the traces.
 
-![Schematic](https://github.com/pdumpa08/IntelliHub-Mk.1/blob/main/assets/Schematic?raw=true)
-![KiCAD PCB](https://github.com/pdumpa08/IntelliHub-Mk.1/blob/main/assets/KiCAD_PCB?raw=true)
+![Schematic](https://github.com/pdumpa08/IntelliHub-Mk.1/blob/main/assets/Schematic.png?raw=true)
+![KiCAD PCB](https://github.com/pdumpa08/IntelliHub-Mk.1/blob/main/assets/KiCAD_PCB.png?raw=true)
 
 **Total time spent: 5.00h**
 
@@ -21,7 +21,7 @@ I then moved on to creating the schematic. After finding the necessary parts, th
 
 Nooooo! Today, I attempted to finalize my PCB design. However, it turns out I made a fatal flaw. I used KiCAD to build my PCB using LCSC parts (imported using a plugin). To say the least, it did not work. The footprints were all wrong and I had 23 DRC errors when I finished tracing and checked... Well, I tried to transform it into an EasyEDA project, but the footprints supplied by the plugin simply wouldn't show up. So, I spent many a hour reconstructing my PCB design. It was cathartic in a sense. It was mind-numbingly annoying in another.
 
-![EasyEDA PCB](https://github.com/pdumpa08/IntelliHub-Mk.1/blob/main/assets/PCB?raw=true)
+![EasyEDA PCB](https://github.com/pdumpa08/IntelliHub-Mk.1/blob/main/assets/PCB.png?raw=true)
 
 **Total time spent: 4.00h**
 
@@ -29,6 +29,6 @@ Nooooo! Today, I attempted to finalize my PCB design. However, it turns out I ma
 
 FINALLY! CAD! I'm new to hardware and so haven't worked with CAD or PCB design too much, but in my experience I found PCB design to be a lot more fun. This time, however, I found myself looking forward to the CAD. And it was pretty fun. Once I had figured out my dimensions, it was fairly smooth sailing from there to make the case. I modeled it after my HackPad design and used similar techniques. One thing that did stump me was how to include the actual PCB for the full image requirement, but in the end I just used the .Obj file and scaled it accordingly using measure on both EasyEDA and Fusion 360.
 
-![CAD](https://github.com/pdumpa08/IntelliHub-Mk.1/blob/main/assets/Full?raw=true)
+![CAD](https://github.com/pdumpa08/IntelliHub-Mk.1/blob/main/assets/Full.png?raw=true)
 
 **Total time spent: 5.00h**
