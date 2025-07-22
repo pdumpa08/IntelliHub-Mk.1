@@ -2,6 +2,8 @@
 
 The IntelliHub-Mk.1 is a USB Hub designed for people who need more than just that one old USB C slot on your laptop/board. It offers increased functionality in a travel-friendly form factor. I made this project specifically because I am one of the people such a product would appeal to (I have a Macbook Air with not one, but two! whole USB C slots). Recently, while at Undercity (the hackathon), I realized a lot of hardware components still utilize USB A cables and that the lack of a hub was limiting me. This project is my attempt to solve that issue.
 
+I'll be putting stuff together with some heatset inerst and M3 screws I have at home.
+
 ![Full Product Render with PCB](https://github.com/pdumpa08/IntelliHub-Mk.1/blob/main/assets/Full_PCB.png?raw=true)
 
 ## PCB Design
