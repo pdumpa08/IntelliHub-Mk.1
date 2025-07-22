@@ -25,6 +25,7 @@ The IntelliHub-Mk.1 is a USB Hub designed for people who need more than just tha
 |3  |10UF-C0402                  |U2,U3            |C0402                           |2       |10uF-c0402        |null           |LCSC    |C9900008999  |0.0006|
 |4  |USB-AF-90-14.4X13.6-H7.0-DIP|USB1,USB2        |USB-A-TH_C46407                 |2       |903-131A1011D10100|精拓金            |LCSC    |C46407       |0.043 |
 |5  |TYPE-C-31-M-12              |USBC1,USBC2,USBC4|USB-C_SMD-TYPE-C-31-M-12        |3       |TYPE-C-31-M-12    |韩国韩荣           |LCSC    |C165948      |0.174 |
+|6  |Case                        |-                |-                               |1       |-                 |Printing Legion|Printing Legion|-            |~$6   |
 
-Estimated Subtotal (w/ shipping and taxes): $58
-Actual Subtotal (after coupon): $38
+Estimated Subtotal for PCB w/ Economic Assembly and Case (w/ shipping and taxes): $64
+Actual Subtotal (after coupon): $44
